@@ -1,5 +1,7 @@
 # EE399-HW3
 
+## Analyse MNIST Dataset With Singular Value Decomposition(SVD) And Supervised Learning Techniques: LDA, SVM and Decision Tree
+
 ### Author: Shiyu Chen
 
 ## Abstract
